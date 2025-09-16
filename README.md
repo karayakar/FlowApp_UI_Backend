@@ -12,10 +12,35 @@
 **FlowApp**, görsel olarak sürükle-bırak yöntemiyle iş akışları (flow/pipeline) tasarlamanıza olanak sağlayan, modern ve modüler bir platformdur.  
 Kullanıcılar, hazır node’ları kullanarak frontend arayüzde akışlarını oluşturur, backend ise bu akışları çalıştırır ve yönetir.
 
+
+
+---
+
+
+## 🛠️ Kurulum
+
+### 1. Frontend
+
+```bash
+cd flow-app/vite-project
+npm install
+npm run dev
+```
+
+### 2. Backend
+
+```bash
+cd flow-app/backend
+dotnet build
+dotnet run
+```
+
 UI : http://localhost:5173/
+
 Backend: https://localhost:53750/
 
 ---
+
 
 ## Özellikler
 
@@ -114,25 +139,7 @@ Aşağıdaki kategorilerde node’lar mevcuttur:
 
 ---
 
-## 🛠️ Kurulum
 
-### 1. Frontend
-
-```bash
-cd flow-app/vite-project
-npm install
-npm run dev
-```
-
-### 2. Backend
-
-```bash
-cd flow-app/backend
-dotnet build
-dotnet run
-```
-
----
 
 ## 📦 Kullanım
 
