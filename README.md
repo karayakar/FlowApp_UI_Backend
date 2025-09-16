@@ -1,5 +1,5 @@
 
-# ENGLISH [ENGLISH]([https://youtu.be/vd8gF7tGDCo](https://github.com/karayakar/FlowApp_UI_Backend/blob/master/README_EN.md))
+# ENGLISH ([https://github.com/karayakar/FlowApp_UI_Backend/blob/master/README_EN.md])
 
 
 # FlowApp: Sürükle-Bırak Akış Tasarım Platformu
