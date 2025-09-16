@@ -5,7 +5,7 @@
 
 ---
 
-  <iframe width="1399" height="1469" src="https://www.youtube.com/embed/vd8gF7tGDCo" title="Karay akar flow (n8n like flow full app)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Proje Hakkında
 
