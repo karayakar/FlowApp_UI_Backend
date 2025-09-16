@@ -148,13 +148,14 @@ dotnet run
 
 - Yeni node eklemek için `NODE_TYPES_CATALOG` ve backend’de `INodeProcessor` implementasyonu ekleyin.
 - UI/UX geliştirmeleri için React ve React Flow bileşenlerini düzenleyin.
-- Hataları ve önerileri [issue açarak](https://github.com/senin-repon/issues) bildirebilirsiniz.
+- Hataları ve önerileri [issue açarak](https://github.com/karayakar/issues) bildirebilirsiniz.
 
 ---
 
 ## 📹 Video
 
-[![Tanıtım Videosu](https://img.youtube.com/vi/XXXXXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXXXXX)
+[![Tanıtım Videosu](https://img.youtube.com/vi/vd8gF7tGDCo/0.jpg)](https://youtu.be/vd8gF7tGDCo)
+> 📺 [Tanıtım videosunu izlemek için tıklayın](https://youtu.be/vd8gF7tGDCo)
 
 ---
 
