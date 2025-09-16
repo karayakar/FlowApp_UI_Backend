@@ -12,6 +12,9 @@
 **FlowApp**, görsel olarak sürükle-bırak yöntemiyle iş akışları (flow/pipeline) tasarlamanıza olanak sağlayan, modern ve modüler bir platformdur.  
 Kullanıcılar, hazır node’ları kullanarak frontend arayüzde akışlarını oluşturur, backend ise bu akışları çalıştırır ve yönetir.
 
+UI : http://localhost:5173/
+Backend: https://localhost:53750/
+
 ---
 
 ## Özellikler
